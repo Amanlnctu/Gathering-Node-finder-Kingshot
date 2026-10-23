@@ -1,0 +1,4180 @@
+{
+  "kid": 1870,
+  "capturedAt": 1792783843261,
+  "pro": false,
+  "alliances": [
+    {
+      "aid": "187900114",
+      "abbr": "AMZ",
+      "name": "Amazonia",
+      "members": 98,
+      "power": 0
+    },
+    {
+      "aid": "187900467",
+      "abbr": "ETE",
+      "name": "EternalEmpire",
+      "members": 88,
+      "power": 0
+    },
+    {
+      "aid": "187900047",
+      "abbr": "RVR",
+      "name": "REVOLUTIONARIES",
+      "members": 82,
+      "power": 0
+    },
+    {
+      "aid": "187900208",
+      "abbr": "OPP",
+      "name": "OnePiece",
+      "members": 38,
+      "power": 0
+    },
+    {
+      "aid": "187900340",
+      "abbr": "RHE",
+      "name": "RoyalHeavenEmp",
+      "members": 37,
+      "power": 0
+    },
+    {
+      "aid": "187900301",
+      "abbr": "CSK",
+      "name": "CROWNEDSOVEREIGN",
+      "members": 36,
+      "power": 0
+    },
+    {
+      "aid": "187900291",
+      "abbr": "IDN",
+      "name": "INDOPRIDE",
+      "members": 33,
+      "power": 0
+    },
+    {
+      "aid": "187900014",
+      "abbr": "TOP",
+      "name": "TopOfPower",
+      "members": 29,
+      "power": 0
+    },
+    {
+      "aid": "187900013",
+      "abbr": "KOR",
+      "name": "KOREA\u00ec\u00bd\u0094\u00eb\u00a6\u00ac\u00ec\u0095\u0084",
+      "members": 27,
+      "power": 0
+    },
+    {
+      "aid": "187900008",
+      "abbr": "TRT",
+      "name": "TheRoundTable",
+      "members": 24,
+      "power": 0
+    },
+    {
+      "aid": "187900732",
+      "abbr": "KnG",
+      "name": "HalloweenTown",
+      "members": 20,
+      "power": 0
+    },
+    {
+      "aid": "187900441",
+      "abbr": "HON",
+      "name": "eManPINASempire",
+      "members": 13,
+      "power": 0
+    },
+    {
+      "aid": "187900260",
+      "abbr": "amz",
+      "name": "AMZacademy",
+      "members": 10,
+      "power": 0
+    },
+    {
+      "aid": "187900589",
+      "abbr": "ilk",
+      "name": "Oyun",
+      "members": 7,
+      "power": 0
+    },
+    {
+      "aid": "187900117",
+      "abbr": "rVR",
+      "name": "FarmOfRVR",
+      "members": 6,
+      "power": 0
+    },
+    {
+      "aid": "187900207",
+      "abbr": "P4F",
+      "name": "PlayforFun",
+      "members": 6,
+      "power": 0
+    },
+    {
+      "aid": "187900214",
+      "abbr": "IMR",
+      "name": "IMPERIUM",
+      "members": 6,
+      "power": 0
+    },
+    {
+      "aid": "187900064",
+      "abbr": "REB",
+      "name": "MJfarm",
+      "members": 4,
+      "power": 0
+    },
+    {
+      "aid": "187900098",
+      "abbr": "KNG",
+      "name": "PowerOfUnity",
+      "members": 4,
+      "power": 0
+    },
+    {
+      "aid": "187900183",
+      "abbr": "bDZ",
+      "name": "DzFamily",
+      "members": 4,
+      "power": 0
+    },
+    {
+      "aid": "187900215",
+      "abbr": "WoF",
+      "name": "WOLFACADEMY",
+      "members": 4,
+      "power": 0
+    },
+    {
+      "aid": "187900004",
+      "abbr": "GEN",
+      "name": "COMMANDnCONQUER",
+      "members": 3,
+      "power": 0
+    },
+    {
+      "aid": "187900067",
+      "abbr": "DZA",
+      "name": "Alg\u00c3\u00a9rien",
+      "members": 3,
+      "power": 0
+    },
+    {
+      "aid": "187900158",
+      "abbr": "GgK",
+      "name": "lostorosnegros",
+      "members": 3,
+      "power": 0
+    },
+    {
+      "aid": "187900206",
+      "abbr": "cbv",
+      "name": "fighters",
+      "members": 3,
+      "power": 0
+    },
+    {
+      "aid": "187900463",
+      "abbr": "QPg",
+      "name": "Tilines",
+      "members": 3,
+      "power": 0
+    },
+    {
+      "aid": "187900029",
+      "abbr": "yEf",
+      "name": "FAQ",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900062",
+      "abbr": "pRk",
+      "name": "Rjanddad",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900162",
+      "abbr": "UkC",
+      "name": "Tinya",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900173",
+      "abbr": "M0B",
+      "name": "Charleston",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900177",
+      "abbr": "ANH",
+      "name": "BluePlanet",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900256",
+      "abbr": "zWQ",
+      "name": "Matanglawin",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900299",
+      "abbr": "BZK",
+      "name": "BOZKURT",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900303",
+      "abbr": "TNM",
+      "name": "TheNewMoon",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900312",
+      "abbr": "GOT",
+      "name": "GoteiBR",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900322",
+      "abbr": "SSR",
+      "name": "Sebo",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900325",
+      "abbr": "zcB",
+      "name": "Supernovx",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900373",
+      "abbr": "ZSr",
+      "name": "Reis",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900380",
+      "abbr": "420",
+      "name": "420baddiegamers",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900449",
+      "abbr": "CNV",
+      "name": "Royals",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900503",
+      "abbr": "000",
+      "name": "iIiGhAzAlYiIi",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900722",
+      "abbr": "FJR",
+      "name": "1111",
+      "members": 2,
+      "power": 0
+    },
+    {
+      "aid": "187900003",
+      "abbr": "War",
+      "name": "WARcemetery",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900005",
+      "abbr": "ndF",
+      "name": "BigBear",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900007",
+      "abbr": "Mob",
+      "name": "THEFamily",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900010",
+      "abbr": "HEL",
+      "name": "cehennem",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900011",
+      "abbr": "THE",
+      "name": "TheOldRepublik",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900012",
+      "abbr": "VUa",
+      "name": "Az\u00c9\u0099rbaycan",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900015",
+      "abbr": "nkK",
+      "name": "Gk",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900016",
+      "abbr": "yFR",
+      "name": "Washington",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900017",
+      "abbr": "H2O",
+      "name": "H2O",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900019",
+      "abbr": "uJs",
+      "name": "losmascapitos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900020",
+      "abbr": "AmZ",
+      "name": "TheTribe",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900021",
+      "abbr": "hKA",
+      "name": "VIP",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900022",
+      "abbr": "UJh",
+      "name": "bloodthirst",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900023",
+      "abbr": "TCc",
+      "name": "T\u00c3\u009cRK\u00c4\u00b0YE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900024",
+      "abbr": "rFW",
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00a7\u00d8\u00b3\u00d9\u0085\u00d8\u00b1\u00d8\u00a7\u00d9\u0086\u00d9\u008a",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900025",
+      "abbr": "DkT",
+      "name": "DarkKing",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900026",
+      "abbr": "mbU",
+      "name": "diamantitos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900027",
+      "abbr": "Wyd",
+      "name": "WLT",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900030",
+      "abbr": "McF",
+      "name": "Gotti",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900031",
+      "abbr": "LLL",
+      "name": "Trashkingdom",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900032",
+      "abbr": "jCg",
+      "name": "Trixon",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900033",
+      "abbr": "sFM",
+      "name": "Ajin",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900035",
+      "abbr": "rVr",
+      "name": "RVRfarm",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900036",
+      "abbr": "wJd",
+      "name": "Forfun",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900037",
+      "abbr": "WJb",
+      "name": "Ravens",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900039",
+      "abbr": "Zvq",
+      "name": "Nobleman",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900040",
+      "abbr": "ten",
+      "name": "\u00eb\u008b\u00a4\u00ea\u00b0\u0099\u00ec\u009d\u00b4\u00ed\u009e\u0098\u00ec\u009d\u0084\u00ed\u0095\u00a9\u00ec\u00b3\u0090\u00ec\u009a\u0094",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900041",
+      "abbr": "tkw",
+      "name": "karla",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900043",
+      "abbr": "PHV",
+      "name": "ZAZANAEMP\u00c4\u00b0RE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900044",
+      "abbr": "JJb",
+      "name": "GONYALILAR",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900045",
+      "abbr": "hME",
+      "name": "pod247",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900046",
+      "abbr": "kRP",
+      "name": "losperros",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900048",
+      "abbr": "hYY",
+      "name": "ThreeLions",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900049",
+      "abbr": "mAR",
+      "name": "Danmark",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900050",
+      "abbr": "AVd",
+      "name": "NRKBT",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900051",
+      "abbr": "pdW",
+      "name": "Jango",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900052",
+      "abbr": "KxB",
+      "name": "RoyalDarkness",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900054",
+      "abbr": "gVg",
+      "name": "KND",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900055",
+      "abbr": "ENR",
+      "name": "NOOBS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900057",
+      "abbr": "SDW",
+      "name": "ShadowLegion",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900058",
+      "abbr": "VIP",
+      "name": "TheBest",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900059",
+      "abbr": "xaV",
+      "name": "kuro",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900060",
+      "abbr": "WEJ",
+      "name": "Gang95400",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900061",
+      "abbr": "REG",
+      "name": "BIMBO",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900063",
+      "abbr": "pUH",
+      "name": "\u00d8\u00b2\u00d9\u008a\u00d8\u00a7\u00d8\u00af",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900066",
+      "abbr": "xVN",
+      "name": "Mclaren",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900068",
+      "abbr": "Vry",
+      "name": "Vvccc",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900070",
+      "abbr": "gYY",
+      "name": "Tng6",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900071",
+      "abbr": "aWR",
+      "name": "ranculche",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900072",
+      "abbr": "mrs",
+      "name": "tropadomengao",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900073",
+      "abbr": "SHP",
+      "name": "STRAWHATPIRATE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900076",
+      "abbr": "COL",
+      "name": "HolocaustoNorte",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900077",
+      "abbr": "CqT",
+      "name": "osbrabos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900078",
+      "abbr": "ETW",
+      "name": "MexicanZ",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900081",
+      "abbr": "zdV",
+      "name": "lospoderosos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900082",
+      "abbr": "cPg",
+      "name": "OuroBruto",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900083",
+      "abbr": "MCk",
+      "name": "T\u00c3\u00bcrkg\u00c3\u00bcc\u00c3\u00bc",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900085",
+      "abbr": "dhe",
+      "name": "ELPUEBLOUNIDO",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900086",
+      "abbr": "REA",
+      "name": "REA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900087",
+      "abbr": "Dah",
+      "name": "aaa",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900089",
+      "abbr": "gXP",
+      "name": "Arab",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900090",
+      "abbr": "sef",
+      "name": "ZEUS20211ERN",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900091",
+      "abbr": "SHa",
+      "name": "Dukes",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900092",
+      "abbr": "hMq",
+      "name": "VIVAFRANCO",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900093",
+      "abbr": "sFF",
+      "name": "\u00e8\u00b2\u00b3\u00e7\u0099\u00be\u00e4\u00ba\u0094",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900094",
+      "abbr": "yBe",
+      "name": "LightBorn",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900095",
+      "abbr": "CR7",
+      "name": "IsekaiStars",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900097",
+      "abbr": "EyM",
+      "name": "420Baddies",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900099",
+      "abbr": "zsP",
+      "name": "xwdmin",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900101",
+      "abbr": "WjJ",
+      "name": "POWERKING",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900102",
+      "abbr": "Wwx",
+      "name": "Rey",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900105",
+      "abbr": "dEH",
+      "name": "G\u00c4\u00b1\u00c4\u00b1\u00c4\u00b1rrrrrr",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900106",
+      "abbr": "CQQ",
+      "name": "Conquest",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900107",
+      "abbr": "GFF",
+      "name": "memeq",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900108",
+      "abbr": "NMV",
+      "name": "SmashBros",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900109",
+      "abbr": "fNJ",
+      "name": "Kieo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900110",
+      "abbr": "VNV",
+      "name": "VNVNation",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900111",
+      "abbr": "qzz",
+      "name": "cat",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900112",
+      "abbr": "BcF",
+      "name": "PenguinKingdom",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900113",
+      "abbr": "nJW",
+      "name": "CDG",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900115",
+      "abbr": "kEn",
+      "name": "citybloxdrean",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900120",
+      "abbr": "mDP",
+      "name": "\u00e7\u00be\u008e\u00e8\u00a5\u00bf\u00e5\u009b\u00bd\u00e4\u00ba\u00ba\u00e8\u0081\u0094\u00e7\u009b\u009f",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900123",
+      "abbr": "BXe",
+      "name": "Spartanos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900124",
+      "abbr": "fcx",
+      "name": "baskere",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900125",
+      "abbr": "fBU",
+      "name": "gurreira",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900126",
+      "abbr": "Pnh",
+      "name": "\u00d8\u00b9\u00d8\u00a8\u00d8\u00af\u00d8\u00a7\u00d9\u0084\u00d9\u0082\u00d8\u00a7\u00d8\u00af\u00d8\u00b1\u00d8\u00b9\u00d9\u008a\u00d9\u0086",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900127",
+      "abbr": "NzS",
+      "name": "amorzaooo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900128",
+      "abbr": "vvB",
+      "name": "ImperioBryl\u00c3\u00a1ico",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900130",
+      "abbr": "tRc",
+      "name": "BlackWhite",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900133",
+      "abbr": "Arg",
+      "name": "Academy",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900134",
+      "abbr": "dgu",
+      "name": "Maharlika",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900135",
+      "abbr": "Dbq",
+      "name": "Anomalia",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900136",
+      "abbr": "Kgv",
+      "name": "Doney",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900139",
+      "abbr": "sds",
+      "name": "JAGOAR",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900140",
+      "abbr": "hrw",
+      "name": "ADHITHEHATER",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900143",
+      "abbr": "dKU",
+      "name": "lobo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900145",
+      "abbr": "zet",
+      "name": "zeka",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900146",
+      "abbr": "Kdt",
+      "name": "kishi99",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900147",
+      "abbr": "sMM",
+      "name": "MBNKX999",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900148",
+      "abbr": "cTs",
+      "name": "paradewa",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900149",
+      "abbr": "FMM",
+      "name": "TheMasterFire",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900151",
+      "abbr": "RwG",
+      "name": "gojosatoru",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900152",
+      "abbr": "Ddj",
+      "name": "M\u00c3\u00b6\u00c3\u00b6M",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900153",
+      "abbr": "HCS",
+      "name": "Moo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900154",
+      "abbr": "BMH",
+      "name": "SIYAHSANCAK",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900155",
+      "abbr": "MON",
+      "name": "TeamT\u00c3\u00bcrk",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900156",
+      "abbr": "Tru",
+      "name": "Phsquad1",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900157",
+      "abbr": "Wjx",
+      "name": "ChristisKing",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900159",
+      "abbr": "pQu",
+      "name": "madhav",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900160",
+      "abbr": "MsP",
+      "name": "www",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900161",
+      "abbr": "rsh",
+      "name": "mmm",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900163",
+      "abbr": "XRt",
+      "name": "170824squad",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900164",
+      "abbr": "kmP",
+      "name": "Kiko",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900165",
+      "abbr": "qqu",
+      "name": "\u00e9\u009a\u00a8\u00e7\u00b7\u00a3\u00e5\u0090\u00a7",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900166",
+      "abbr": "jwu",
+      "name": "Dragoncavalry",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900170",
+      "abbr": "zSh",
+      "name": "Bonds",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900171",
+      "abbr": "GcY",
+      "name": "kingdom",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900172",
+      "abbr": "auD",
+      "name": "\u00e9\u00a1\u008f\u00e5\u009c\u0088\u00e5\u009c\u0088",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900174",
+      "abbr": "VMx",
+      "name": "gladesiaa",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900175",
+      "abbr": "ZbJ",
+      "name": "Okahama",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900176",
+      "abbr": "jZJ",
+      "name": "\u00e2\u0080\u00a2GHOST\u00e2\u0080\u00a2",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900178",
+      "abbr": "Gzf",
+      "name": "BAR4",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900179",
+      "abbr": "Csn",
+      "name": "Dlgash",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900181",
+      "abbr": "HGw",
+      "name": "teenwolf",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900182",
+      "abbr": "Yxf",
+      "name": "rhionClub",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900184",
+      "abbr": "nqh",
+      "name": "GHOSTTOWN",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900185",
+      "abbr": "hfF",
+      "name": "Kozy",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900186",
+      "abbr": "sVF",
+      "name": "Lucifer",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900187",
+      "abbr": "CXM",
+      "name": "Unitednations",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900188",
+      "abbr": "MAD",
+      "name": "UNKNOWN",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900189",
+      "abbr": "jfx",
+      "name": "Lostoros",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900190",
+      "abbr": "UuR",
+      "name": "Goonies",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900191",
+      "abbr": "fNK",
+      "name": "thecenterking",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900193",
+      "abbr": "DVW",
+      "name": "pink",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900194",
+      "abbr": "QuA",
+      "name": "binggu",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900195",
+      "abbr": "SQV",
+      "name": "Malekeljoker",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900196",
+      "abbr": "SwU",
+      "name": "T",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900198",
+      "abbr": "wgF",
+      "name": "batoslocos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900199",
+      "abbr": "Ete",
+      "name": "Junior",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900200",
+      "abbr": "gey",
+      "name": "RENEGADOS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900201",
+      "abbr": "rwd",
+      "name": "TLC",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900202",
+      "abbr": "DAJ",
+      "name": "Thailand",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900203",
+      "abbr": "rPd",
+      "name": "Ven\u00c3\u00bcs",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900204",
+      "abbr": "Fvt",
+      "name": "LosBarbaros",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900205",
+      "abbr": "TKL",
+      "name": "TEKEL",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900209",
+      "abbr": "wnT",
+      "name": "LGBT",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900210",
+      "abbr": "NRD",
+      "name": "NightRaid",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900212",
+      "abbr": "uZT",
+      "name": "TheKings",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900213",
+      "abbr": "HcW",
+      "name": "chavox",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900216",
+      "abbr": "NBS",
+      "name": "qqq",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900217",
+      "abbr": "KMh",
+      "name": "eee",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900218",
+      "abbr": "Fjn",
+      "name": "India",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900221",
+      "abbr": "taE",
+      "name": "istriS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900222",
+      "abbr": "511",
+      "name": "511",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900223",
+      "abbr": "rSf",
+      "name": "GoldenEagle",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900224",
+      "abbr": "tre",
+      "name": "\u00d8\u00ad\u00d9\u0085\u00d9\u0088\u00d8\u00af\u00d9\u008aTOP",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900225",
+      "abbr": "BnZ",
+      "name": "BOTA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900226",
+      "abbr": "sBq",
+      "name": "GUITOCOOLS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900227",
+      "abbr": "Mbj",
+      "name": "Valaquenta",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900229",
+      "abbr": "fBz",
+      "name": "Kushanu",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900230",
+      "abbr": "vem",
+      "name": "Psw",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900231",
+      "abbr": "BAb",
+      "name": "BorogiRegency",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900232",
+      "abbr": "Akf",
+      "name": "Macliance",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900233",
+      "abbr": "Pkj",
+      "name": "zyna",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900235",
+      "abbr": "GWF",
+      "name": "Moonshine",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900236",
+      "abbr": "sKV",
+      "name": "Death",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900237",
+      "abbr": "Nur",
+      "name": "mom",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900238",
+      "abbr": "Fwz",
+      "name": "xxx",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900239",
+      "abbr": "ERG",
+      "name": "LordStarkWorld",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900241",
+      "abbr": "TNT",
+      "name": "Zebari",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900244",
+      "abbr": "esn",
+      "name": "BLACKxxDRAGON",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900245",
+      "abbr": "TDK",
+      "name": "6six",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900248",
+      "abbr": "vqh",
+      "name": "tropafx",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900249",
+      "abbr": "ZpW",
+      "name": "jkjvb",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900250",
+      "abbr": "QbX",
+      "name": "TheBeastCrown",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900251",
+      "abbr": "ONE",
+      "name": "KINGDOMS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900253",
+      "abbr": "XrE",
+      "name": "XX",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900254",
+      "abbr": "JVr",
+      "name": "AlyWekaFan",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900255",
+      "abbr": "Vuw",
+      "name": "Ahmet",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900257",
+      "abbr": "kft",
+      "name": "DAAsKari",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900258",
+      "abbr": "ffa",
+      "name": "TOPGUNSONLY",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900259",
+      "abbr": "Zxh",
+      "name": "Oxygenz",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900261",
+      "abbr": "Wtd",
+      "name": "Gaza",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900262",
+      "abbr": "zPR",
+      "name": "T\u00c3\u009cRK",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900264",
+      "abbr": "zRF",
+      "name": "Alianzaxlapaz",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900265",
+      "abbr": "ZUN",
+      "name": "mejar",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900266",
+      "abbr": "yNu",
+      "name": "noxus",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900267",
+      "abbr": "JvB",
+      "name": "PostisTown",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900268",
+      "abbr": "YmQ",
+      "name": "ANGTOWN",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900269",
+      "abbr": "KbE",
+      "name": "Haff",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900270",
+      "abbr": "eYp",
+      "name": "Baybiler",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900271",
+      "abbr": "zBp",
+      "name": "AloveR",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900272",
+      "abbr": "Dtg",
+      "name": "sava\u00c5\u009f\u00c3\u00a7\u00c4\u00b1lar",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900273",
+      "abbr": "PKX",
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d9\u0084\u00d9\u0088\u00d9\u0083",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900275",
+      "abbr": "EXM",
+      "name": "ABC",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900277",
+      "abbr": "bVs",
+      "name": "\u00d8\u00a7\u00d8\u00a8\u00d9\u0088\u00d9\u0085\u00d8\u00b3\u00d9\u0081\u00d8\u00b1\u00d9\u0088\u00d9\u0082\u00d8\u00ad\u00d8\u00b7\u00d8\u00a7\u00d9\u0086",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900279",
+      "abbr": "CTc",
+      "name": "Warriors",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900281",
+      "abbr": "NQa",
+      "name": "AngelofHope",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900283",
+      "abbr": "jem",
+      "name": "anjingpanas",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900284",
+      "abbr": "zgx",
+      "name": "Fetihittifak\u00c4\u00b1",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900286",
+      "abbr": "jVf",
+      "name": "eliya",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900290",
+      "abbr": "nKF",
+      "name": "KONOHA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900292",
+      "abbr": "Mes",
+      "name": "EnderMig",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900295",
+      "abbr": "nGz",
+      "name": "FullRizz",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900296",
+      "abbr": "kXP",
+      "name": "QUEENSKINGS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900298",
+      "abbr": "AaD",
+      "name": "PickleRickkk",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900300",
+      "abbr": "vjX",
+      "name": "Overlord",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900302",
+      "abbr": "YxA",
+      "name": "Sushantgang",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900304",
+      "abbr": "esU",
+      "name": "Thelaw",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900306",
+      "abbr": "bua",
+      "name": "Sarojmahat",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900308",
+      "abbr": "SXk",
+      "name": "BJP",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900310",
+      "abbr": "cMC",
+      "name": "Shadows",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900311",
+      "abbr": "aXY",
+      "name": "XxFalcon\u00c2\u00b0",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900313",
+      "abbr": "nBs",
+      "name": "rrxj",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900314",
+      "abbr": "FOA",
+      "name": "FriendsOfAndy",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900317",
+      "abbr": "Nsd",
+      "name": "kalef",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900318",
+      "abbr": "bpT",
+      "name": "IndianSamurai",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900319",
+      "abbr": "xBU",
+      "name": "Malvad\u00c3\u00b5es",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900321",
+      "abbr": "qDs",
+      "name": "ALAYINAG\u00c4\u00b0DER",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900323",
+      "abbr": "Khy",
+      "name": "ALIANZAOESTE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900326",
+      "abbr": "KaJ",
+      "name": "Dubliners",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900327",
+      "abbr": "Eat",
+      "name": "alianzaargentin",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900328",
+      "abbr": "TGF",
+      "name": "DLittleGDF",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900329",
+      "abbr": "gbu",
+      "name": "NuevayEterna",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900330",
+      "abbr": "fXq",
+      "name": "Esparta",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900334",
+      "abbr": "tUn",
+      "name": "osfarofeiros",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900335",
+      "abbr": "EdN",
+      "name": "alianza",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900336",
+      "abbr": "JHg",
+      "name": "chile",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900337",
+      "abbr": "WNC",
+      "name": "Winchester",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900339",
+      "abbr": "VdR",
+      "name": "Supermeganight",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900341",
+      "abbr": "Qqy",
+      "name": "Norv\u00c3\u00a1lia",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900342",
+      "abbr": "LGN",
+      "name": "LEGI\u00c3\u0093N",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900344",
+      "abbr": "feg",
+      "name": "alliancetalla",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900345",
+      "abbr": "Ura",
+      "name": "LosvikingosDeSur",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900346",
+      "abbr": "nvD",
+      "name": "Sevendays",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900347",
+      "abbr": "WtD",
+      "name": "sindhu",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900349",
+      "abbr": "ywz",
+      "name": "NWK",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900350",
+      "abbr": "Yjf",
+      "name": "Toolmanscrew",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900352",
+      "abbr": "nwV",
+      "name": "skeleton",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900353",
+      "abbr": "NYt",
+      "name": "Ducks",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900354",
+      "abbr": "shU",
+      "name": "\u00d9\u0085\u00d8\u00b5\u00d8\u00b1\u00c3\u0097\u00d8\u00a7\u00d9\u0084\u00d8\u00b2\u00d8\u00b1\u00d9\u0082",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900355",
+      "abbr": "Zau",
+      "name": "Brunohot",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900356",
+      "abbr": "fUs",
+      "name": "losguardianes",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900357",
+      "abbr": "fvU",
+      "name": "Kings",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900359",
+      "abbr": "ndy",
+      "name": "VOTEYZONEBEAST",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900361",
+      "abbr": "VxH",
+      "name": "\u00d9\u0083\u00d9\u0084\u00d9\u0088\u00d8\u00aa\u00d9\u0085\u00d8\u00a7\u00d9\u0085",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900362",
+      "abbr": "Czx",
+      "name": "husnuu25",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900363",
+      "abbr": "GGF",
+      "name": "TheAnnihilators",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900365",
+      "abbr": "utd",
+      "name": "neferobito",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900366",
+      "abbr": "uaZ",
+      "name": "TAEMSTRONG",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900368",
+      "abbr": "xVC",
+      "name": "EspartanosMR",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900369",
+      "abbr": "ESE",
+      "name": "LosQuenis",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900370",
+      "abbr": "Way",
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b9\u00d8\u00b2\u00d9\u0085",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900376",
+      "abbr": "rry",
+      "name": "T\u00c3\u009cRKIYE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900377",
+      "abbr": "yMm",
+      "name": "Reina",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900378",
+      "abbr": "aUE",
+      "name": "reinolordBraya",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900379",
+      "abbr": "vyS",
+      "name": "ARTINEX",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900381",
+      "abbr": "JhP",
+      "name": "\u00ec\u0086\u0094ro",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900382",
+      "abbr": "Uvd",
+      "name": "CasadosDragoes",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900383",
+      "abbr": "xTV",
+      "name": "ShadowDominion",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900384",
+      "abbr": "ZMe",
+      "name": "nightmare",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900385",
+      "abbr": "KxQ",
+      "name": "Nivel19",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900387",
+      "abbr": "ykM",
+      "name": "Chip",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900389",
+      "abbr": "efE",
+      "name": "DarkValley",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900390",
+      "abbr": "HTt",
+      "name": "ecux7",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900391",
+      "abbr": "moB",
+      "name": "Lunary",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900392",
+      "abbr": "VbU",
+      "name": "Defend3",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900393",
+      "abbr": "RAN",
+      "name": "Divergent",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900394",
+      "abbr": "NNb",
+      "name": "Jennamae1990",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900395",
+      "abbr": "DvD",
+      "name": "Kinderisa",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900396",
+      "abbr": "nMg",
+      "name": "nvx\u00e2\u0082\u00ac\u00c2\u00a3\u00c2\u00a5\u00e2\u0082\u00a9\u00c2\u00a3",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900397",
+      "abbr": "SDD",
+      "name": "LosCristeros",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900398",
+      "abbr": "phY",
+      "name": "welcomeAll",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900399",
+      "abbr": "dHZ",
+      "name": "ShadowGarden",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900401",
+      "abbr": "sHE",
+      "name": "MynameisAllic",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900402",
+      "abbr": "Fmw",
+      "name": "harsh",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900403",
+      "abbr": "KrG",
+      "name": "loyas",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900407",
+      "abbr": "JRt",
+      "name": "Theunemployed",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900408",
+      "abbr": "dCZ",
+      "name": "adil",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900409",
+      "abbr": "pDK",
+      "name": "Hustle",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900413",
+      "abbr": "Qjk",
+      "name": "mycity",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900414",
+      "abbr": "DED",
+      "name": "dineshmei",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900415",
+      "abbr": "tTD",
+      "name": "liquidid111",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900417",
+      "abbr": "Hpd",
+      "name": "Huraaa",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900418",
+      "abbr": "Nuv",
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d9\u0088\u00d8\u00a7\u00d9\u008a\u00d8\u00a8\u00d8\u00a9",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900421",
+      "abbr": "aaX",
+      "name": "BORNEO",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900422",
+      "abbr": "JTs",
+      "name": "MaroccoUnited",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900424",
+      "abbr": "DMw",
+      "name": "StrongHands",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900425",
+      "abbr": "gPj",
+      "name": "SamSuma\u00e2\u0080\u0099s",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900426",
+      "abbr": "yZW",
+      "name": "REIGN",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900428",
+      "abbr": "ePf",
+      "name": "Diablho",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900429",
+      "abbr": "Aux",
+      "name": "Ne\u00c5\u009fe",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900430",
+      "abbr": "eaw",
+      "name": "EagleSSR",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900431",
+      "abbr": "HnA",
+      "name": "SuperAlliance",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900432",
+      "abbr": "tfu",
+      "name": "cCcBOZKURTLARcCc",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900433",
+      "abbr": "ete",
+      "name": "ETE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900436",
+      "abbr": "hEt",
+      "name": "IDK",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900437",
+      "abbr": "cep",
+      "name": "M23",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900438",
+      "abbr": "KyC",
+      "name": "Ashokakingdom",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900440",
+      "abbr": "eEb",
+      "name": "Dontsmokecrac",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900443",
+      "abbr": "pNy",
+      "name": "EstoesNuevo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900445",
+      "abbr": "tWv",
+      "name": "vamosaldiablo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900446",
+      "abbr": "brT",
+      "name": "\u00c3\u0089rebo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900447",
+      "abbr": "cnF",
+      "name": "osfortes",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900448",
+      "abbr": "EWU",
+      "name": "jafarenseslutam",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900450",
+      "abbr": "tFj",
+      "name": "Tjk",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900451",
+      "abbr": "bUG",
+      "name": "Marlen",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900452",
+      "abbr": "KcR",
+      "name": "SwordEmpire",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900453",
+      "abbr": "yha",
+      "name": "Bellavida",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900458",
+      "abbr": "INT",
+      "name": "International",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900459",
+      "abbr": "tzZ",
+      "name": "ECF",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900461",
+      "abbr": "sYw",
+      "name": "Idk",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900464",
+      "abbr": "YAC",
+      "name": "42069",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900466",
+      "abbr": "rhs",
+      "name": "Private",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900468",
+      "abbr": "DXA",
+      "name": "TROPADOGHOST",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900470",
+      "abbr": "Bjv",
+      "name": "THELEGEND",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900473",
+      "abbr": "RJx",
+      "name": "povodeIsrael",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900475",
+      "abbr": "ZNy",
+      "name": "INDONESIA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900479",
+      "abbr": "tUu",
+      "name": "DeeroftheMoon",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900481",
+      "abbr": "jcM",
+      "name": "GardenGate",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900482",
+      "abbr": "Ltn",
+      "name": "LatinoVip",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900483",
+      "abbr": "ICY",
+      "name": "flowerpower",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900484",
+      "abbr": "kZW",
+      "name": "osguri",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900486",
+      "abbr": "Dmn",
+      "name": "Deepsea",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900487",
+      "abbr": "KFa",
+      "name": "Ger",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900488",
+      "abbr": "FVM",
+      "name": "SuldoBrasil",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900489",
+      "abbr": "Duq",
+      "name": "reboo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900490",
+      "abbr": "nhU",
+      "name": "Losextraditable",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900491",
+      "abbr": "utD",
+      "name": "Arahanborneo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900492",
+      "abbr": "DPD",
+      "name": "DALNC",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900494",
+      "abbr": "DKN",
+      "name": "\u00cf\u009fDunkinDonuts\u00cf\u009f",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900496",
+      "abbr": "EXk",
+      "name": "Soentranoia",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900497",
+      "abbr": "hUf",
+      "name": "Y\u00c4\u00b1k\u00c4\u00b1mekibi",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900498",
+      "abbr": "vZD",
+      "name": "chilll",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900499",
+      "abbr": "OoO",
+      "name": "\u00ea\u00bc\u00ac\u00ea\u00bc\u00ac\u00ec\u0099\u0080\u00ec\u00ad\u0088\u00ec\u00ad\u0088",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900500",
+      "abbr": "uHu",
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b4\u00d8\u00aa\u00d8\u00b1\u00d9\u0083\u00d8\u00a9",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900502",
+      "abbr": "LLG",
+      "name": "LALUNG",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900507",
+      "abbr": "dqN",
+      "name": "Zor",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900508",
+      "abbr": "wgB",
+      "name": "geomatrix008",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900509",
+      "abbr": "yUb",
+      "name": "lnwsa",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900511",
+      "abbr": "nAT",
+      "name": "askarmelayu",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900512",
+      "abbr": "ZJq",
+      "name": "RoyalChallengers",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900513",
+      "abbr": "XxK",
+      "name": "Col\u00c3\u00b4niaBr",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900518",
+      "abbr": "Uch",
+      "name": "Gallant",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900521",
+      "abbr": "fDc",
+      "name": "Muddasir",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900522",
+      "abbr": "jsK",
+      "name": "tap",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900523",
+      "abbr": "UMq",
+      "name": "Guerreros",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900524",
+      "abbr": "mJG",
+      "name": "Alief",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900527",
+      "abbr": "pNa",
+      "name": "Eleni",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900528",
+      "abbr": "Gkj",
+      "name": "Trinity",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900530",
+      "abbr": "AXY",
+      "name": "EZ\u00ce\u00a9CLAN",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900531",
+      "abbr": "KnJ",
+      "name": "Australia",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900532",
+      "abbr": "jUb",
+      "name": "420",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900534",
+      "abbr": "jJq",
+      "name": "spartas",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900535",
+      "abbr": "XkV",
+      "name": "DEUSES",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900536",
+      "abbr": "Zpp",
+      "name": "Loveandjustice",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900537",
+      "abbr": "vca",
+      "name": "Teamwangkill",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900541",
+      "abbr": "TMM",
+      "name": "TheMadminute",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900542",
+      "abbr": "rvr",
+      "name": "cai",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900543",
+      "abbr": "urR",
+      "name": "404NotFound",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900544",
+      "abbr": "DaB",
+      "name": "AlphaGladiator",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900545",
+      "abbr": "GUh",
+      "name": "LordRangga",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900546",
+      "abbr": "AXA",
+      "name": "APEXALPHAS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900547",
+      "abbr": "Wah",
+      "name": "PeakyBlinders",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900550",
+      "abbr": "YDP",
+      "name": "Madurabersatu",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900552",
+      "abbr": "THb",
+      "name": "CristoVive",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900555",
+      "abbr": "PBz",
+      "name": "bolulu1414",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900556",
+      "abbr": "VST",
+      "name": "Halo",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900558",
+      "abbr": "ttD",
+      "name": "CROWNETTE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900559",
+      "abbr": "fCM",
+      "name": "going",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900562",
+      "abbr": "nxQ",
+      "name": "ahhhhhhhh",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900568",
+      "abbr": "DAm",
+      "name": "CasaCleal",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900569",
+      "abbr": "XcX",
+      "name": "\u00e6\u0095\u00a3\u00e4\u00bf\u00ae",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900570",
+      "abbr": "ZJD",
+      "name": "Paras",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900571",
+      "abbr": "BzB",
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00a7\u00d8\u00b5\u00d8\u00af\u00d9\u0082\u00d8\u00a7\u00d8\u00a1",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900572",
+      "abbr": "jDu",
+      "name": "apapunxboleh",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900573",
+      "abbr": "CyB",
+      "name": "solofuertes",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900574",
+      "abbr": "SnC",
+      "name": "qbd",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900575",
+      "abbr": "GRu",
+      "name": "Baba",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900577",
+      "abbr": "QcJ",
+      "name": "Chaviortiz",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900579",
+      "abbr": "RHY",
+      "name": "KillerBoss",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900581",
+      "abbr": "fMp",
+      "name": "KOREAURA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900583",
+      "abbr": "MOH",
+      "name": "M\u00c3\u00b6zelharekat",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900584",
+      "abbr": "nFZ",
+      "name": "SUPER",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900585",
+      "abbr": "JkA",
+      "name": "lGbtWarrior",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900587",
+      "abbr": "Jgn",
+      "name": "AnaeEddie",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900588",
+      "abbr": "zHk",
+      "name": "Blessedbygod",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900590",
+      "abbr": "XEC",
+      "name": "Bordeland",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900591",
+      "abbr": "gje",
+      "name": "Cadangan",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900594",
+      "abbr": "jub",
+      "name": "ALBATROAZKINGS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900596",
+      "abbr": "x4E",
+      "name": "ELEG\u00c3\u0089NCE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900597",
+      "abbr": "INF",
+      "name": "Inferno",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900598",
+      "abbr": "PXs",
+      "name": "MNj",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900599",
+      "abbr": "cgt",
+      "name": "Alliance",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900600",
+      "abbr": "RKv",
+      "name": "RV",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900601",
+      "abbr": "CHK",
+      "name": "Naturalparadise",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900602",
+      "abbr": "CPw",
+      "name": "B3",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900603",
+      "abbr": "VAk",
+      "name": "FengShui",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900605",
+      "abbr": "OTM",
+      "name": "OTTOMANS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900607",
+      "abbr": "SyN",
+      "name": "Pitud0s",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900608",
+      "abbr": "M0b",
+      "name": "TheFamilia",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900609",
+      "abbr": "ASB",
+      "name": "chocolatitos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900611",
+      "abbr": "rtn",
+      "name": "Killbill",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900612",
+      "abbr": "RMz",
+      "name": "hmmmm",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900614",
+      "abbr": "Vrg",
+      "name": "Tureino",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900617",
+      "abbr": "xxw",
+      "name": "SenadorCanedoCit",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900618",
+      "abbr": "XEA",
+      "name": "TURRA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900619",
+      "abbr": "ZBY",
+      "name": "DUNGEON",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900621",
+      "abbr": "NBu",
+      "name": "HerosKingdom",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900622",
+      "abbr": "jfW",
+      "name": "Jennieper",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900625",
+      "abbr": "NbP",
+      "name": "trash",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900627",
+      "abbr": "nbk",
+      "name": "wehatethem",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900628",
+      "abbr": "ANT",
+      "name": "Antalya",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900630",
+      "abbr": "HdU",
+      "name": "solomaestrosde",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900632",
+      "abbr": "FgU",
+      "name": "ALTARESDELALTO",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900634",
+      "abbr": "rgh",
+      "name": "Ghbvv",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900635",
+      "abbr": "Uyv",
+      "name": "Nutsackheavy",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900637",
+      "abbr": "jTF",
+      "name": "onepiece",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900638",
+      "abbr": "jXd",
+      "name": "brown",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900639",
+      "abbr": "Tcf",
+      "name": "LACOMUNIDAD",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900640",
+      "abbr": "sVD",
+      "name": "GaunaFC",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900641",
+      "abbr": "Aqg",
+      "name": "Paraguay",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900642",
+      "abbr": "pTN",
+      "name": "\u00d9\u0085\u00d8\u00ac\u00d9\u0085\u00d9\u0088\u00d8\u00b9\u00d9\u0087\u00d8\u00a7\u00d9\u0084\u00d8\u00aa\u00d8\u00b9\u00d8\u00a7\u00d8\u00b1\u00d9\u0081",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900643",
+      "abbr": "XUe",
+      "name": "ChevyGMT400guys",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900644",
+      "abbr": "fVN",
+      "name": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b0\u00d8\u00a6\u00d8\u00a8\u00d8\u00a7\u00d9\u0084\u00d8\u00b1\u00d9\u0085\u00d8\u00a7\u00d8\u00af\u00d9\u008a",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900648",
+      "abbr": "XqQ",
+      "name": "Val\u00e2\u0080\u0099sKingdom",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900649",
+      "abbr": "jJD",
+      "name": "Chp",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900650",
+      "abbr": "JVY",
+      "name": "combatmatrix",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900651",
+      "abbr": "Esr",
+      "name": "Typeshxxters",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900652",
+      "abbr": "hUw",
+      "name": "Wesley7x",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900653",
+      "abbr": "APh",
+      "name": "VINGADORES",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900654",
+      "abbr": "Wny",
+      "name": "Aliance",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900655",
+      "abbr": "CDL",
+      "name": "CauldronLove",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900656",
+      "abbr": "szT",
+      "name": "Comz",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900657",
+      "abbr": "nqX",
+      "name": "Alascompartidas",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900659",
+      "abbr": "Apm",
+      "name": "Eagleeye",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900661",
+      "abbr": "qYH",
+      "name": "camiilam",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900662",
+      "abbr": "Kuv",
+      "name": "420and710only",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900666",
+      "abbr": "fEv",
+      "name": "VALYRIA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900669",
+      "abbr": "TSD",
+      "name": "TheSeed",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900672",
+      "abbr": "HxE",
+      "name": "R34P3R",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900674",
+      "abbr": "HTP",
+      "name": "mafiatailandesa",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900675",
+      "abbr": "DRh",
+      "name": "Loyalty",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900676",
+      "abbr": "xXe",
+      "name": "sedcar",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900678",
+      "abbr": "GOD",
+      "name": "GodsClan",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900679",
+      "abbr": "tuk",
+      "name": "3DayaSquad",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900682",
+      "abbr": "ReB",
+      "name": "Rebels",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900690",
+      "abbr": "PQT",
+      "name": "OSUNDAIA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900691",
+      "abbr": "qPF",
+      "name": "THEDESTROYER",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900693",
+      "abbr": "Bqc",
+      "name": "ALJOKER\u00e2\u0082\u00a9\u00e2\u0082\u00a9\u00e2\u0082\u00a9",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900695",
+      "abbr": "Bas",
+      "name": "bardiabrine",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900697",
+      "abbr": "NUr",
+      "name": "anhm11",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900698",
+      "abbr": "GPt",
+      "name": "LosPulentos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900701",
+      "abbr": "XQF",
+      "name": "winger",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900702",
+      "abbr": "TyM",
+      "name": "Cristian",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900704",
+      "abbr": "WuV",
+      "name": "Eliteempire",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900705",
+      "abbr": "gqY",
+      "name": "\u00c3\u0089clipse\u00c3\u00a9ternele",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900706",
+      "abbr": "RtU",
+      "name": "Leecifer",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900708",
+      "abbr": "mzS",
+      "name": "Bro",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900711",
+      "abbr": "RQx",
+      "name": "kingler",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900712",
+      "abbr": "NMd",
+      "name": "Fabreeze",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900713",
+      "abbr": "wXr",
+      "name": "Magyarok",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900718",
+      "abbr": "VRX",
+      "name": "VORTEX",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900723",
+      "abbr": "hrz",
+      "name": "Kraki",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900728",
+      "abbr": "yfB",
+      "name": "hijosdeDios",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900730",
+      "abbr": "JJQ",
+      "name": "Roque",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900733",
+      "abbr": "BDR",
+      "name": "LMA",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900734",
+      "abbr": "ATP",
+      "name": "SUNDAEMPIRE",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900738",
+      "abbr": "nVc",
+      "name": "ShadowSlayers",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900739",
+      "abbr": "K70",
+      "name": "1870SUCKS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900747",
+      "abbr": "wgE",
+      "name": "vikthus",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900749",
+      "abbr": "zMt",
+      "name": "SpermoludkiV2",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900753",
+      "abbr": "tRb",
+      "name": "fbi",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900754",
+      "abbr": "RwQ",
+      "name": "H",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900757",
+      "abbr": "RWE",
+      "name": "cochito",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900759",
+      "abbr": "TWL",
+      "name": "TheWarLord",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900776",
+      "abbr": "pHd",
+      "name": "TVD",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900779",
+      "abbr": "DHY",
+      "name": "BUL",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900782",
+      "abbr": "HDM",
+      "name": "HolyDemons",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900784",
+      "abbr": "fsx",
+      "name": "Harunkrall\u00c4\u00b1\u00c4\u009f\u00c4\u00b1",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900789",
+      "abbr": "XFC",
+      "name": "Kingston",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900790",
+      "abbr": "TJE",
+      "name": "knowledgeGrow86",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900796",
+      "abbr": "GBv",
+      "name": "Wolverine",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900805",
+      "abbr": "GDN",
+      "name": "Golden",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900809",
+      "abbr": "Csx",
+      "name": "ColdAssets",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900811",
+      "abbr": "pUv",
+      "name": "KiritoEmpire",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900812",
+      "abbr": "ajv",
+      "name": "BINGIN",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900816",
+      "abbr": "snu",
+      "name": "santos",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900823",
+      "abbr": "SWj",
+      "name": "vbjyyt",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900835",
+      "abbr": "SMH",
+      "name": "Whateversmh",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900842",
+      "abbr": "kZn",
+      "name": "Gg",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900844",
+      "abbr": "tNV",
+      "name": "TheSilverMoon",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900845",
+      "abbr": "Ghm",
+      "name": "OSMANLITORUNLARI",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900853",
+      "abbr": "VFd",
+      "name": "LOSREDIMIDOS",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900854",
+      "abbr": "XZP",
+      "name": "Hitlershelpers",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900855",
+      "abbr": "qvj",
+      "name": "fr",
+      "members": 1,
+      "power": 0
+    },
+    {
+      "aid": "187900006",
+      "abbr": "MJW",
+      "name": "EnjoyGathering",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900028",
+      "abbr": "187900028",
+      "name": "187900028",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900065",
+      "abbr": "uKY",
+      "name": "Mouras",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900080",
+      "abbr": "EDg",
+      "name": "CAMPE\u00c3\u0095ES",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900084",
+      "abbr": "RvR",
+      "name": "RVRSucksAss",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900088",
+      "abbr": "NyZ",
+      "name": "bbb",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900096",
+      "abbr": "mOB",
+      "name": "WAREADY",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900119",
+      "abbr": "187900119",
+      "name": "187900119",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900129",
+      "abbr": "AVN",
+      "name": "Renegades20",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900142",
+      "abbr": "187900142",
+      "name": "187900142",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900144",
+      "abbr": "PhP",
+      "name": "ArmyofARIES",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900167",
+      "abbr": "187900167",
+      "name": "187900167",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900168",
+      "abbr": "mPy",
+      "name": "BenjaminSquad",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900252",
+      "abbr": "AVA",
+      "name": "Justforfun369",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900348",
+      "abbr": "MoB",
+      "name": "MoB",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900400",
+      "abbr": "187900400",
+      "name": "187900400",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900423",
+      "abbr": "DGR",
+      "name": "BuildTheWall",
+      "members": 0,
+      "power": 0
+    },
+    {
+      "aid": "187900480",
+      "abbr": "KAT",
+      "name": "CutieKittens",
+      "members": 0,
+      "power": 0
+    }
+  ],
+  "presence": [
+    {
+      "x": 139,
+      "y": 249,
+      "kind": "gather",
+      "allianceIdx": 20,
+      "resource": 1,
+      "level": 6,
+      "name": ""
+    },
+    {
+      "x": 505,
+      "y": 783,
+      "kind": "gather",
+      "allianceIdx": 2,
+      "resource": 4,
+      "level": 7,
+      "name": ""
+    },
+    {
+      "x": 508,
+      "y": 779,
+      "kind": "gather",
+      "allianceIdx": 2,
+      "resource": 4,
+      "level": 7,
+      "name": ""
+    },
+    {
+      "x": 747,
+      "y": 715,
+      "kind": "gather",
+      "allianceIdx": 1,
+      "resource": 1,
+      "level": 8,
+      "name": ""
+    },
+    {
+      "x": 749,
+      "y": 666,
+      "kind": "gather",
+      "allianceIdx": 1,
+      "resource": 1,
+      "level": 8,
+      "name": ""
+    },
+    {
+      "x": 842,
+      "y": 1063,
+      "kind": "gather",
+      "allianceIdx": 119,
+      "resource": 2,
+      "level": 4,
+      "name": ""
+    },
+    {
+      "x": 850,
+      "y": 1074,
+      "kind": "gather",
+      "allianceIdx": 119,
+      "resource": 3,
+      "level": 4,
+      "name": ""
+    },
+    {
+      "x": 855,
+      "y": 1079,
+      "kind": "gather",
+      "allianceIdx": 119,
+      "resource": 4,
+      "level": 4,
+      "name": ""
+    },
+    {
+      "x": 870,
+      "y": 558,
+      "kind": "gather",
+      "allianceIdx": 23,
+      "resource": 3,
+      "level": 7,
+      "name": ""
+    },
+    {
+      "x": 902,
+      "y": 529,
+      "kind": "gather",
+      "allianceIdx": 8,
+      "resource": 1,
+      "level": 6,
+      "name": ""
+    },
+    {
+      "x": 1040,
+      "y": 505,
+      "kind": "gather",
+      "allianceIdx": 8,
+      "resource": 1,
+      "level": 5,
+      "name": ""
+    },
+    {
+      "x": 1065,
+      "y": 494,
+      "kind": "gather",
+      "allianceIdx": 8,
+      "resource": 1,
+      "level": 6,
+      "name": ""
+    },
+    {
+      "x": 1074,
+      "y": 485,
+      "kind": "gather",
+      "allianceIdx": 8,
+      "resource": 3,
+      "level": 6,
+      "name": ""
+    },
+    {
+      "x": 1076,
+      "y": 489,
+      "kind": "gather",
+      "allianceIdx": 8,
+      "resource": 2,
+      "level": 6,
+      "name": ""
+    },
+    {
+      "x": 145,
+      "y": 434,
+      "kind": "camp",
+      "allianceIdx": 10,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 171,
+      "y": 1003,
+      "kind": "camp",
+      "allianceIdx": 0,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 398,
+      "y": 920,
+      "kind": "camp",
+      "allianceIdx": 6,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 418,
+      "y": 893,
+      "kind": "camp",
+      "allianceIdx": 6,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 456,
+      "y": 880,
+      "kind": "camp",
+      "allianceIdx": 17,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 474,
+      "y": 894,
+      "kind": "camp",
+      "allianceIdx": 17,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 534,
+      "y": 86,
+      "kind": "camp",
+      "allianceIdx": 33,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 535,
+      "y": 88,
+      "kind": "camp",
+      "allianceIdx": 33,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 535,
+      "y": 98,
+      "kind": "camp",
+      "allianceIdx": 33,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 547,
+      "y": 776,
+      "kind": "camp",
+      "allianceIdx": 2,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 816,
+      "y": 694,
+      "kind": "camp",
+      "allianceIdx": 13,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 817,
+      "y": 695,
+      "kind": "camp",
+      "allianceIdx": 13,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 915,
+      "y": 5,
+      "kind": "camp",
+      "allianceIdx": 464,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 942,
+      "y": 653,
+      "kind": "camp",
+      "allianceIdx": 22,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 942,
+      "y": 656,
+      "kind": "camp",
+      "allianceIdx": 22,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 1026,
+      "y": 882,
+      "kind": "camp",
+      "allianceIdx": 16,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    },
+    {
+      "x": 1081,
+      "y": 230,
+      "kind": "camp",
+      "allianceIdx": 10,
+      "resource": 0,
+      "level": 0,
+      "name": ""
+    }
+  ]
+}
